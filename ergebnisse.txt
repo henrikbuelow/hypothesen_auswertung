@@ -1,0 +1,54 @@
+Insgesamte Zustimmung zu den Hypothesen
+
+Zustimmung zu Hypothese 1: 96.15384615384616
+Zustimmung zu Hypothese 2: 63.46153846153846
+Zustimmung zu Hypothese 3: 48.07692307692308
+Zustimmung zu Hypothese 4: 26.923076923076923
+Zustimmung zu Hypothese 5: 67.3076923076923
+Zustimmung zu Hypothese 6: 48.07692307692308
+Zustimmung zu Hypothese 7: 67.3076923076923
+Zustimmung zu Hypothese 8: 88.46153846153847
+Zustimmung zu Hypothese 9: 78.84615384615384
+Zustimmung zu Hypothese 10: 46.15384615384615
+
+
+Zustimmung der Jugendlichen zu den Hypothesen
+
+Zustimmung zu Hypothese 1: 100.0
+Zustimmung zu Hypothese 2: 100.0
+Zustimmung zu Hypothese 3: 100.0
+Zustimmung zu Hypothese 4: 50.0
+Zustimmung zu Hypothese 5: 100.0
+Zustimmung zu Hypothese 6: 100.0
+Zustimmung zu Hypothese 7: 100.0
+Zustimmung zu Hypothese 8: 100.0
+Zustimmung zu Hypothese 9: 100.0
+Zustimmung zu Hypothese 10: 100.0
+
+
+Zustimmung der Erwachsenen zu den Hypothesen
+
+Zustimmung zu Hypothese 1: 90.0
+Zustimmung zu Hypothese 2: 60.0
+Zustimmung zu Hypothese 3: 55.0
+Zustimmung zu Hypothese 4: 35.0
+Zustimmung zu Hypothese 5: 75.0
+Zustimmung zu Hypothese 6: 65.0
+Zustimmung zu Hypothese 7: 70.0
+Zustimmung zu Hypothese 8: 85.0
+Zustimmung zu Hypothese 9: 80.0
+Zustimmung zu Hypothese 10: 55.0
+
+
+Zustimmung der Senioren zu den Hypothesen
+
+Zustimmung zu Hypothese 1: 100.0
+Zustimmung zu Hypothese 2: 60.714285714285715
+Zustimmung zu Hypothese 3: 35.714285714285715
+Zustimmung zu Hypothese 4: 17.857142857142858
+Zustimmung zu Hypothese 5: 57.142857142857146
+Zustimmung zu Hypothese 6: 28.571428571428573
+Zustimmung zu Hypothese 7: 60.714285714285715
+Zustimmung zu Hypothese 8: 89.28571428571429
+Zustimmung zu Hypothese 9: 75.0
+Zustimmung zu Hypothese 10: 32.142857142857146

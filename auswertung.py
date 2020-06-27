@@ -80,3 +80,28 @@ print('Zustimmung der Jugendlichen zu den Hypothesen:', young)
 print('Zustimmung der Erwachsenen zu den Hypothesen:',  adult)
 print('Zustimmung der Senioren zu den Hypothesen:', senior)
 
+"""
+Ergebnisse in Textdatei schreiben
+"""
+
+file = open("ergebnisse.txt", "w")
+
+file.write("Insgesamte Zustimmung zu den Hypothesen\n\n")
+for index in range(0, 10):
+        text = "Zustimmung zu Hypothese " + str(index + 1) + ": " + str(approval_hypothesis[index]) + "\n"
+        file.write(text)
+
+file.write("\n\nZustimmung der Jugendlichen zu den Hypothesen\n\n")
+for index in range(0, 10):
+        text = "Zustimmung zu Hypothese " + str(index + 1) + ": " + str(young[index]) + "\n"
+        file.write(text)
+
+file.write("\n\nZustimmung der Erwachsenen zu den Hypothesen\n\n")
+for index in range(0, 10):
+        text = "Zustimmung zu Hypothese " + str(index + 1) + ": " + str(adult[index]) + "\n"
+        file.write(text)
+
+file.write("\n\nZustimmung der Senioren zu den Hypothesen\n\n")
+for index in range(0, 10):
+        text = "Zustimmung zu Hypothese " + str(index + 1) + ": " + str(senior[index]) + "\n"
+        file.write(text)
