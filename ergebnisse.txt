@@ -11,6 +11,12 @@ Hypothese 8: 88.46
 Hypothese 9: 78.84
 Hypothese 10: 46.15
 
+Hypothesen mit hoher Zustimmung von allen Altersgruppen:
+1, 2, 5, 7, 8, 9
+Hypothesen mit mittlerer Zustimmung von allen Altersgruppen:
+3, 6, 10
+Hypothesen mit niedriger Zustimmung von allen Altersgruppen:
+4
 
 Zustimmung der Jugendlichen zu den Hypothesen
 
@@ -25,6 +31,12 @@ Hypothese 8: 100.0
 Hypothese 9: 100.0
 Hypothese 10: 100.0
 
+Hypothesen mit hoher Zustimmung der Jugendlichen:
+1, 2, 3, 5, 6, 7, 8, 9, 10
+Hypothesen mit mittlerer Zustimmung der Jugendlichen:
+4
+Hypothesen mit niedriger Zustimmung der Jugendlichen:
+/
 
 Zustimmung der Erwachsenen zu den Hypothesen
 
@@ -39,6 +51,12 @@ Hypothese 8: 85.0
 Hypothese 9: 80.0
 Hypothese 10: 55.0
 
+Hypothesen mit hoher Zustimmung der Erwachsenen:
+1, 5, 6, 7, 8, 9
+Hypothesen mit mittlerer Zustimmung der Erwachsenen:
+2, 3, 10
+Hypothesen mit niedriger Zustimmung der Erwachsenen:
+4
 
 Zustimmung der Senioren zu den Hypothesen
 
@@ -52,3 +70,10 @@ Hypothese 7: 60.71
 Hypothese 8: 89.28
 Hypothese 9: 75.0
 Hypothese 10: 32.14
+
+Hypothesen mit hoher Zustimmung der Senioren:
+1, 8, 9
+Hypothesen mit mittlerer Zustimmung der Senioren:
+2, 5, 7
+Hypothesen mit niedriger Zustimmung der Senioren:
+3, 4, 6, 10
