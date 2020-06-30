@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hypothesen_auswertung.iml" filepath="$PROJECT_DIR$/.idea/hypothesen_auswertung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mvp_factory/.idea/mvp_factory.iml" filepath="$PROJECT_DIR$/../mvp_factory/.idea/mvp_factory.iml" />
     </modules>
   </component>
 </project>
